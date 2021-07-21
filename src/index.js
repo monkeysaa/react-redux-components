@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import CommentDetail from './CommentDetail.jsx';
+import ApprovalCard from './ApprovalCard.jsx';
 import faker from 'faker';
 
 const App = () => {

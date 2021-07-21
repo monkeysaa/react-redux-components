@@ -20,6 +20,6 @@ const CommentDetail = (props) => {
     </div>
   );
 
-}
+};
 
 export default CommentDetail;
